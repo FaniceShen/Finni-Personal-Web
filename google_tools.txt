@@ -1,0 +1,2 @@
+- google analytics: https://analytics.google.com/analytics/web/?pli=1&authuser=2#/a400200470p544430144/admin
+- google search: https://search.google.com/u/2/search-console?resource_id=https%3A%2F%2Ffaniceshen.github.io%2FFinni-Personal-Web%2F&after_verification_success=

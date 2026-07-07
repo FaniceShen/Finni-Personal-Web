@@ -1,0 +1,19 @@
+{
+	"name": "Fanni Shen",
+	"short_name": "Fanni Shen",
+	"description": "Fanni Shen (沈凡妮) — PhD Candidate in Management Science and Engineering at Zhejiang University. Research in revenue management, data-driven decision-making, and discrete choice models.",
+	"start_url": "/Finni-Personal-Web",
+	"lang": "en-US",
+	"icons": [
+		{
+			"src": "/images/favicon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/images/favicon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
